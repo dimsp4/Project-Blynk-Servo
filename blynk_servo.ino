@@ -6,9 +6,9 @@
 
 
 Servo servo;
-char auth[] = "m83VxP3_dBYSdNF5ihyCBlmzLhBpQTY4";
-char ssid[] = "NA";
-char pswd[] = "234567ER";
+char auth[] = "ur token";
+char ssid[] = "ur wifi name";
+char pswd[] = "ur wifi password";
 
 void setup() {
  Serial.begin(9600);
